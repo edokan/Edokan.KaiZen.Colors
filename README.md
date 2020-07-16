@@ -7,6 +7,7 @@ Includes a dummy escape sequence parser for interpreting ANSI escape codes (colo
 
 Here is a basic example
 
+````csharp
     using Edokan.Kaizen.Colors;
 
     namespace MyAwesomeConsoleApplication
@@ -25,3 +26,4 @@ Here is a basic example
         }
       }
     }
+````
